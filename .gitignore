@@ -130,3 +130,5 @@ dmypy.json
 
 # MacOS hidden files
 .DS_Store
+
+.jupyter/
